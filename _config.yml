@@ -13,17 +13,20 @@
 # you will see them accessed via {{ agackakan }}, {{ hkudak@ttmail.com }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Tahtanın doğallığına hoşgeldiniz !
 email: hkudak@ttmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tahtanın doğallığında, sukulentlerin güzelliğini yaşamak !
   El işi tüm ağaç ve tahta uygulamalarını burada bulabilirsiniz. 
   Ayrıca fikirlerinizi veya beğendiğiniz ürünleri benimle paylaşabilir ve projelendirebiliriz.
+
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "www.tahta.shop" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: zaxsty
 instagram_username: zaxsty
-github_username:  zaxsty
+
 
 # Build settings
 markdown: kramdown
